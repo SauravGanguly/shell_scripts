@@ -1,3 +1,4 @@
+#!/bin/bash
 <<comment1
 Shell Script to accept three numbers and display the largest number.
 comment1
