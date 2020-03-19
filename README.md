@@ -3,3 +3,6 @@
 2. Shell Script to find the number of files in a directory. 
   <br> [a. Using WC command](https://github.com/SauravGanguly/shell_scripts/blob/master/script_2a.sh)
   <br> [b. Without using WC command](https://github.com/SauravGanguly/shell_scripts/blob/master/script_2b.sh)
+3. Shell Script to display first ten positive numbers using until loop
+  <br> [a. ](https://github.com/SauravGanguly/shell_scripts/blob/master/script_3a.sh)
+  <br> [b. Using expr(expression)](https://github.com/SauravGanguly/shell_scripts/blob/master/script_3b.sh)
