@@ -4,6 +4,6 @@
   <br> [a. Using WC command](https://github.com/SauravGanguly/shell_scripts/blob/master/script_2a.sh)
   <br> [b. Without using WC command](https://github.com/SauravGanguly/shell_scripts/blob/master/script_2b.sh)
 3. Shell Script to display first ten positive numbers using until loop
-  <br> [a. ](https://github.com/SauravGanguly/shell_scripts/blob/master/script_3a.sh)
+  <br> [a. Simple](https://github.com/SauravGanguly/shell_scripts/blob/master/script_3a.sh)
   <br> [b. Using expr(expression)](https://github.com/SauravGanguly/shell_scripts/blob/master/script_3b.sh)
 4. [Shell Script to check whether a file is existing or not.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_4.sh)
