@@ -11,3 +11,4 @@
   <br> [a. Using while loop](https://github.com/SauravGanguly/shell_scripts/blob/master/script_5a.sh)
   <br> [b. Using for loop](https://github.com/SauravGanguly/shell_scripts/blob/master/script_5b.sh)
 6. [Shell Script to calculate the sum of digits.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_6.sh)
+7. [Shell Script to print the first 10 odd numbers using the while loop.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_7.sh)
