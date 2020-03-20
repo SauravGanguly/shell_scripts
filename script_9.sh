@@ -18,5 +18,5 @@ do
     z=`expr $x + $y `
     echo "$z"
     x=$y
-		y=$z
+    y=$z
 done
