@@ -8,6 +8,6 @@
   <br> [b. Using expr(expression)](https://github.com/SauravGanguly/shell_scripts/blob/master/script_3b.sh)
 4. [Shell Script to check whether a file is existing or not.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_4.sh)
 5. Shell Script which will accept different numbers and find their sum.
-  <br> [Using while loop](https://github.com/SauravGanguly/shell_scripts/blob/master/script_5a.sh)
-  <br> [Using for loop](https://github.com/SauravGanguly/shell_scripts/blob/master/script_5b.sh)
+  <br> [a. Using while loop](https://github.com/SauravGanguly/shell_scripts/blob/master/script_5a.sh)
+  <br> [b. Using for loop](https://github.com/SauravGanguly/shell_scripts/blob/master/script_5b.sh)
   
