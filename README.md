@@ -10,4 +10,4 @@
 5. Shell Script which will accept different numbers and find their sum.
   <br> [a. Using while loop](https://github.com/SauravGanguly/shell_scripts/blob/master/script_5a.sh)
   <br> [b. Using for loop](https://github.com/SauravGanguly/shell_scripts/blob/master/script_5b.sh)
-  
+6. [A five-digit number is input through the keyboard. Write a shell script to calculate the sum of its digits.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_6.sh)
