@@ -13,3 +13,5 @@
 6. [Shell Script to calculate the sum of digits.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_6.sh)
 7. [Shell Script to print the first 10 odd numbers using the while loop.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_7.sh)
 8. [Shell Script to generate the factorial of a given number entered through keyboard.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_8.sh)
+9. [Shell Script to generate the Fibonacci series.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_9.sh)
+10. [Shell Script to reverse the digits of a given number.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_10.sh)
