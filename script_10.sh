@@ -1,7 +1,7 @@
 #!/bin/bash
 #Shell Script to reverse the digits of a given number.
 
-echo "Enter the number : "
+echo -n "Enter the number : "
 read n
 
 temp=$n
