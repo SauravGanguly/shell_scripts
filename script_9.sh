@@ -1,7 +1,7 @@
 #!/bin/bash
 #Shell Script to generate the Fibonacci series.
 
-echo "How many number of terms to be generated ?"
+echo -n "How many number of terms to be generated ? : "
 read n
 
 x=0
