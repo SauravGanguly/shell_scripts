@@ -16,3 +16,4 @@
 9. [Shell Script to generate the Fibonacci series.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_9.sh)
 10. [Shell Script to reverse the digits of a given number.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_10.sh)
 11. [Shell Script to copy the source file to the target file.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_11.sh)
+12. [Shell Script to find the mode of a file or sub-directory in a directory.](https://github.com/SauravGanguly/shell_scripts/blob/master/script_12.sh)
